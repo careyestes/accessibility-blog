@@ -1,12 +1,12 @@
 ---
 title: 'Universally Good v. Good Enough'
 date: '2022-10-17'
-snippet: 'TBD'
+snippet: 'What makes people choose between doing a "good job" and doing a "good enough job"? My step-dad helped teach me the value in always doing a good job, which I use in my accessibility work today.'
 image: '/images/shopping-cart.jpg'
 sites: [
   { 
     name: "Jim", 
-    url: "" 
+    url: "https://raw.githubusercontent.com/careyestes/accessibility-blog/main/public/images/Jim.jpg" 
   },
   { 
     name: "Fun in Accessibility", 
