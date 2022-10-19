@@ -38,6 +38,7 @@ export default function Layout({ children, location }) {
       </Head>
       
       <header className={classNames(styles.header, { [ styles.single_post ] : location === 'post' })}>
+        { location === 'post' && <a className={styles.backButton} href='/'>« Back</a>}
         <nav>
           <Link href='/'>
             <a className={styles.logo}>

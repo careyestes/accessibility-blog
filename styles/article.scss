@@ -174,14 +174,24 @@
     padding: 0rem 0;
     background-color: var(--background-color);
     .article_background_image_container {
+      max-width: $max-single-article-width;
+      margin: 0 auto; 
       background-position: top center;
-      background-size: contain;
+      background-size: cover;
+      @media only screen and (min-width: 1280px) {
+        max-width: none;
+        margin: 0; 
+        background-size: contain;
+      }
     }
     .article_wrapper {
       position: relative;
       max-width: $max-single-article-width;
-      margin: 0rem auto 0;
-      padding: 8rem 0 0;
+      margin: -4.5rem auto 0;
+      @media only screen and (min-width: 1280px) {
+        padding: 8rem 0 0;
+        margin: 0rem auto 0;
+      }
       .content_wrapper {
         margin: 0;
         padding: 3rem 2.5rem;

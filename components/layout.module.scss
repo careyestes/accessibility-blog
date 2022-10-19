@@ -12,6 +12,19 @@
   @media only screen and (min-width: 1280px) {
     flex: 0 0 3rem;
   }
+  .backButton {
+    position: absolute;
+    top: 2rem;
+    left: 5rem;
+    margin: 0;
+    font-size: 1.5rem;
+    @media only screen and (min-width: 1280px) {
+      top: 0.5rem;
+      left: 8rem;
+      font-size: 1rem;
+
+    }
+  }
   nav {
     display: flex;
     justify-content: center;
