@@ -19,7 +19,7 @@ sites: [
 ]
 ---
 
-### Jim
+### First up: Jim
 
 I have had the fortune of having two dad’s in my lifetime. I was 11 when my parents split and it was as devastating and crushing as anyone typically imagines. However, in life’s usual bout of irony, something that seemed irreversibly damaging turned into the creation of a defining principle of my life.
 
