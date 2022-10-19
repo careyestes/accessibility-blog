@@ -40,13 +40,15 @@ export default function Post({ postData }) {
 
       <section className="sources_section_wrapper">
         <h3>Sources</h3>
+        <ul>
         { 
             postData.sites.map(item => (
-              <li key={item.name}>
-                <a target="_blank" href={item.url}>{item.name}</a>
-              </li>
+                <li key={item.name}>
+                  <a target="_blank" href={item.url}>{item.name}</a>
+                </li>
             ))
-        }
+          }
+        </ul>
       </section>
     </Layout>
   );

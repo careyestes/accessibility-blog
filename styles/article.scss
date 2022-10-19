@@ -12,36 +12,54 @@
     display: inline-block;
     padding: 1rem 0;
     color: var(--foreground-color-light);
-    font-size: 0.85rem;
+    font-size: 1.3rem;
     font-weight: bold;
     letter-spacing: 0.125rem;;
     text-transform: uppercase;
+    @media only screen and (min-width: 1280px) {
+      padding: 1rem 0;
+      font-size: 0.85rem;
+    }
   }
 
   // Hero Homepage Article
   &.-hero, &.-single_post {
-    margin: 0 2rem;
-    padding: 8rem 4rem 0;
+    margin: 0 0rem;
+    padding: 4rem 1rem 0;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    border-radius: 6rem;
+    @media only screen and (min-width: 1280px) {
+      margin: 0 2rem;
+      padding: 8rem 4rem 0;
+      border-radius: 6rem;
+    }
     .article_wrapper {
-      max-width: $max-hero-article-width;
+      // max-width: $max-hero-article-width;
       margin: 0 auto;
+      @media only screen and (min-width: 1280px) {
+        max-width: $max-hero-article-width-desktop;
+      }
       time {
         position: relative;
         top: 0;
-        left: 40px;
         z-index: 3;
-        padding: 0.5rem 1rem;
-        background: var(--highlight-color-bright);
+        padding: 1rem 1.5rem;
+        background: var(--highlight-color);
         color: var(--header-color);
+        opacity: 0.9;
+        @media only screen and (min-width: 1280px) {
+          left: 40px;
+          padding: 0.5rem 1rem;
+        }
       }
       h2 {
         position: relative;
         z-index: 0;
-        padding: 1rem 2.6rem 2rem;
+        padding: 2rem 2rem 2rem;
+        @media only screen and (min-width: 1280px) {
+          padding: 2rem 3rem 2rem;
+        }
         .layered_background {
           position: absolute;
           top: 0;
@@ -51,24 +69,26 @@
           height: 100%;
           background: var(--highlight-color);
           opacity: 0.9;
-          &:before, &:after {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            mix-blend-mode: overlay;
-            content: "";
-          }
-          &:before {
-            z-index: 0;
-            top: -20px;
-            right: -20px;
-            background: var(--layered-background-teal);
-          }
-          &:after {
-            z-index: 1;
-            bottom: -20px;
-            left: -20px;
-            background: var(--layered-background-magenta);
+          @media only screen and (min-width: 1280px) {
+            &:before, &:after {
+              position: absolute;
+              width: 100%;
+              height: 100%;
+              mix-blend-mode: overlay;
+              content: "";
+            }
+            &:before {
+              z-index: 0;
+              top: -20px;
+              right: -20px;
+              background: var(--layered-background-teal);
+            }
+            &:after {
+              z-index: 1;
+              bottom: -20px;
+              left: -20px;
+              background: var(--layered-background-magenta);
+            }
           }
         }
         span {
@@ -89,20 +109,32 @@
       & > p {
         position: relative;
         z-index: 2;
-        padding: 2rem 5rem;
+        padding: 2rem 2rem;
+        @media only screen and (min-width: 1280px) {
+          padding: 2rem 6rem;
+        }
       }
       & > a {
-        padding: 0 5rem 2rem;
+        padding: 2rem 2rem;
+        @media only screen and (min-width: 1280px) {
+          padding: 0rem 6rem 2rem;
+        }
       }
     }
   }
 
   &.-list {
-    max-width: $max-article-width;
-    margin: 0 0 0 auto;
-    padding: 2rem 5rem;
+    margin: 0 2rem;
+    padding: 2rem 1rem;
+    @media only screen and (min-width: 1280px) {
+      max-width: $max-article-width;
+      margin: 0 0 0 auto;
+      padding: 2rem 4rem;
+    }
     &.-even {
-      margin: 0 auto 0 0;
+      @media only screen and (min-width: 1280px) {
+        margin: 0 auto 0 0;
+      }
     }
     h2 {
       display: flex;
@@ -126,9 +158,13 @@
       max-width: $max-single-article-width;
       margin: 10rem auto 0;
       .content_wrapper {
-        margin: 0 6rem;
-        padding: 3rem 4rem;
+        margin: 0;
+        padding: 3rem 2.5rem;
         background-color: var(--background-color);
+        @media only screen and (min-width: 1280px) {
+          margin: 0 6rem;
+          padding: 3rem 4rem;
+        }
       }
     }
   }

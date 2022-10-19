@@ -6,9 +6,12 @@
 }
 
 .header {
-  flex: 0 0 3rem;
+  flex: 0 0 6rem;
   display: flex;
   align-items: center;
+  @media only screen and (min-width: 1280px) {
+    flex: 0 0 3rem;
+  }
   nav {
     display: flex;
     justify-content: center;
@@ -52,8 +55,11 @@
 
 .footer {
   padding: 3rem;
-  font-size: 0.75rem;
+  font-size: 1rem;
   text-align: center;
+  @media only screen and (min-width: 1280px) {
+    font-size: 0.75rem;
+  }
 }
 
 .backToHome {
