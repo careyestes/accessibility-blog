@@ -22,7 +22,7 @@
       width: 3.5rem;
       height: 3.5rem;
     }
-    .Sun, .Moon, .Land {
+    .Sun, .Moon, .Land, .Stars {
       transition: 0.25s;
     }
   }
@@ -37,6 +37,9 @@
       .Land {
         transform: translate(0, 0);
       }
+      .Stars {
+        display: none;
+      }
     }
   }
   &.darkTheme {
@@ -50,6 +53,9 @@
       }
       .Land {
         transform: translate(0, 0);
+      }
+      .Stars {
+        display: inline-block;
       }
     }
   }
