@@ -3,6 +3,7 @@ title: 'The captions of Stranger Things'
 date: '2022-07-22'
 snippet: 'Accessibility features improve the lives of everyone, from permanent to situational. I turn on closed captions when watching TV in my bedroom, typically because my toddler is sleeping right across the hall. This is a great example of situational accessibility, and why it’s such an important consideration when delivering content to users.'
 image: '/images/Vecna-Stranger-Things-Season-4.jpg'
+alt: 'A film still from the show Stranger Things, which has the character Max walking into the Upside Down.'
 sites: [
   { 
     name: "‘Tentacles squelching wetly’: How captions for Stranger Things have raised the bar for accessibility", 

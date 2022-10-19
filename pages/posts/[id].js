@@ -36,6 +36,7 @@ export default function Post({ postData }) {
         title={postData.title} 
         content={postData.contentHtml}
         image={postData.image}
+        alt={postData.alt}
       />
 
       <section className="sources_section_wrapper">

@@ -3,6 +3,7 @@ title: 'Universally Good v. Good Enough'
 date: '2022-10-17'
 snippet: 'What makes people choose between doing a "good job" and doing a "good enough job"? My step-dad helped teach me the value in always doing a good job, which I use in my accessibility work today.'
 image: '/images/shopping-cart.jpg'
+alt: 'A shopping cart that has been left in a parking space.'
 sites: [
   { 
     name: "Jim", 

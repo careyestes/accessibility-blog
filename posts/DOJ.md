@@ -3,6 +3,7 @@ title: 'DOJ announces Title II Regulation'
 date: '2022-07-29'
 snippet: 'It seems the DOJ is making progress on legal standards for accessibility. While the standards for the private sector are not at our doorstep, they are certainly down the street at the bodega, getting an everything bagel with lox and cream cheese. We need to continue to strive for AA compliance and not take the easy paths. The shortcuts we make today build the long road back to the right way.'
 image: '/images/ADA-Site-Compliance-5-Things-You-Must-Do-To-Have-An-ADA-Compliant-Website.jpg'
+alt: 'An illustration of a laptop with cartoon characters crawling across the screen and keyboard. A seal is on the left side that says ADA Site Compliance.'
 sites: [
   { 
     name: "Official Rule", 

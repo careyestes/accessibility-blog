@@ -3,6 +3,7 @@ title: 'CA Appeals Court says online-only businesses are not covered by the ADA'
 date: '2022-09-12'
 snippet: 'The latest CA ruling claims only business with physical locations are covered by Title III of the ADA, therefore businesses that are online-only are not legally required to make their websites accessible. It’s an incredible unfortunate ruling, with a silver lining that this may invoke some changes in the future. Sometimes, the only way out….is through.'
 image: '/images/storefront.jpg'
+alt: 'An illustrated storefront with signs out front containing an array of icons, like a star, map marker, and star.'
 sites: [
   { 
     name: "Bureau of Internet Accessibility", 

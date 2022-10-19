@@ -2,7 +2,8 @@
 title: 'How to write good alt-text'
 date: '2022-08-08'
 snippet: 'Alt text provides supporting context for imagery on the web. It is currently one of the most common accessibility issues across the internet, but there are ways to make it better. Always remember to write concise, descriptive alt text for non-decorative images to help users and browsers understand what an image is portraying!'
-image: ''
+image: '/images/pictionary.jpg'
+alt: 'Pieces set out on a Pictionary game board.'
 sites: []
 ---
 Do you remember [Pictionary](https://en.wikipedia.org/wiki/Pictionary)? What about [Win, Lose, or Draw](https://en.wikipedia.org/wiki/Win,_Lose_or_Draw)?

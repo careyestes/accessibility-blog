@@ -3,6 +3,7 @@ title: 'The accessibility of Burning Man'
 date: '2022-09-06'
 snippet: 'The importance of self-reliance is indescribable. People do not want to be a burden and therefore do not want things done *for* them. They want the agency to do what they want, when they want, and how they want. The goal of these programs is to provide that autonomy. To make the experience equatable across **all** people. The goal of Mobility Camp, Blind Burners, Da Dirty Hands, and other programs is to embrace and celebrate the ethos of Burning Man, that All are welcome.'
 image: '/images/burning-man.jpg'
+alt: 'A nighttime scene of an installation at the Burning Man festival.'
 sites: [
   { 
     name: "What is Burning Man?", 

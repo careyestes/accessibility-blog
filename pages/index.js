@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
       <section>
         
         <ul className="post_list">
-          {allPostsData.map(({ id, date, title, snippet, image }, index, row) => (
+          {allPostsData.map(({ id, date, title, snippet, image, alt }, index, row) => (
             <li className={classNames({'last-item' : index + 1 === row.length})} key={id} >
               <Article 
                 type={ index === 0 ? "-hero" : "-list"} 
@@ -34,6 +34,7 @@ export default function Home({ allPostsData }) {
                 id={id} 
                 isEven={ index % 2 === 0 ? '-even' : '-odd' }
                 image={image}
+                alt={alt}
                 />
             </li>
           ))}

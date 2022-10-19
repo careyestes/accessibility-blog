@@ -3,6 +3,7 @@ title: 'The new face of accessible controllers'
 date: '2022-08-29'
 snippet: 'Accessibility is taking big strides in the gaming controller market, which is pushing boundaries in other tech spaces as well. Enabled Play gives gamers full control by using facial expressions, alongside voice and movement commands.'
 image: '/images/enabled-play.jpg'
+alt: 'A young person sitting at a desktop computer playing the game, Minecraft, using an accessible controller to control the movement of the character.'
 sites: [
   { 
     name: "Alex Dunn", 
