@@ -98,15 +98,15 @@ In November of 2019, going in for a routine visit to the doctor, we learned Jim 
 
 My son was born a month later, and in an effort to make room in our house, I had started building an out-building, a shop of my own, back in March. I had most of it completed in January when Jim and my mom arrived to see our new kid. 
 
-Jim could barely walk. Trips around the hospital with him terrified me, because he walked as though any minute he could collapse. Amongst the whirlwind of the newborn, Jim pulled me aside and asked if we could leave to go see the building I had made. After my initial brush off of this request, thinking he was only trying to placate me, he asked again with more intention if he could see the building. Noticing his candor, I decided to accommodate. We needed to re-up some supplies from the house anyway, so Jim and I began our trek home and ultimately, the shed.
+Jim could barely walk. Trips around the hospital with him terrified me, because he walked as though any minute he could collapse. Amongst the whirlwind of the newborn, Jim pulled me aside and asked if we could leave to go see the building I had made. After my initial brush off of this request, thinking he was only trying to placate me, he asked again with more intention if he could see the building. Noticing his candor, I decided to accommodate. We needed to re-up some supplies from the house anyway, so Jim and I began our trek home and ultimately, the shop.
 
-There were still lots of large mud clods and loose dirt and material around the walkway lining up to the entry of the shed. Jim struggled with those, shaky and ill footed, every step seemed like it was set for a certain ER visit, but with the unflinching determination I had seen throughout our life together, as he struggled and fought to overcome problems to find solutions, he did the same now, for walking. Something that had come so easily just a few years prior.
+There were still lots of large mud clods and loose dirt and material around the walkway lining up to the entry of the shop. Jim struggled with those, shaky and ill footed, every step seemed like it was set for a certain ER visit, but with the unflinching determination I had seen throughout our life together, as he struggled and fought to overcome problems to find solutions, he did the same now, for walking. Something that had come so easily just a few years prior.
 
-He made his way to the doorway and into the shed. On one wall was the electrical panel I had installed and another were two saw tables I had built custom, one for a mitre saw, the other for a table saw. 
+He made his way to the doorway and into the shop. On one wall was the electrical panel I had installed and another were two saw tables I had built custom, one for a mitre saw, the other for a table saw. 
 
 He walked to the center of the room, looked up at the ceiling joists, which I struggled with the bird’s mouth on, over to the eave, which I had put the drip edge on prematurely, and down to the slab, which I had gone a little too thin in some areas and wasn't able to smooth out properly.    
 
-I didn't realize how self conscious I was about my work, or how much I wanted his nod of approval until that moment, standing in a 30 square foot shed, built by an amateur, awaiting a response from his mentor. 
+I didn't realize how self conscious I was about my work, or how much I wanted his nod of approval until that moment, standing in a 30 square foot shop, built by an amateur, awaiting a response from his mentor. 
 
 That was January. 
 
@@ -118,9 +118,9 @@ Logistics on who stays where. Where are we all meeting? When can we get there? W
 
 It was not until later, after the cremation and funeral, after the soft hugs and goodbyes from distant relatives and the never ending casseroles, not until **much** later, that I began reflecting on my last days with Jim. 
 
-It was in that shed. 
+It was in that shop. 
 
-We had short, meaningless conversations and chats after we left the shed of course. The traditional hellos and goodbyes, and such were common fare, along with me asking the occasional question, but the real passages were in that shed, built of 2x4, plywood, concrete, and copper, and the knowledge passed from one to another. 
+We had short, meaningless conversations and chats after we left the shop of course. The traditional hellos and goodbyes, and such were common fare, along with me asking the occasional question, but the real passages were in that shop, built of 2x4, plywood, concrete, and copper, and the knowledge passed from one to another. 
 
 **"I am proud of you. You did a good job."** was the last thing he really said *to* me. 
 
