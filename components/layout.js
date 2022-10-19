@@ -4,6 +4,7 @@ import styles from './layout.module.scss';
 import Link from 'next/link';
 import classNames from 'classnames';
 import ThemeToggle from "./themeToggle";
+import { prefix } from '../utils/prefix.js'
 
 export const siteTitle = '.ready';
 export const siteMeta = '.reveal Accessibility News';
@@ -32,7 +33,7 @@ export default function Layout({ children, location }) {
   return (
     <div id="Container" className={classNames(styles.container, theme === "light" ? "light-theme" : "dark-theme")}>
       <Head>
-        <link rel='icon' href='/favicon.png' />
+        <link rel='icon' href={ prefix + '/favicon.png' } />
         <meta name='og:title' content={siteMeta} />
       </Head>
       
