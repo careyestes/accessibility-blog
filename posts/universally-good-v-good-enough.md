@@ -96,7 +96,7 @@ So many early 3am mornings, I spent in a lab or in front of a screen trying desp
 
 In November of 2019, going in for a routine visit to the doctor, we learned Jim had liver cancer. It was stage four and very aggressive. 
 
-My son was born a month later, and in an effort to make room in our house, I had started building an out building back in March. I had most of it completed in January when Jim and my mom arrived to see our new kid. 
+My son was born a month later, and in an effort to make room in our house, I had started building an out-building, a shop of my own, back in March. I had most of it completed in January when Jim and my mom arrived to see our new kid. 
 
 Jim could barely walk. Trips around the hospital with him terrified me, because he walked as though any minute he could collapse. Amongst the whirlwind of the newborn, Jim pulled me aside and asked if we could leave to go see the building I had made. After my initial brush off of this request, thinking he was only trying to placate me, he asked again with more intention if he could see the building. Noticing his candor, I decided to accommodate. We needed to re-up some supplies from the house anyway, so Jim and I began our trek home and ultimately, the shed.
 
