@@ -116,11 +116,11 @@ I was feeding my son breakfast when I got the call from my sister. As usual, the
 
 Logistics on who stays where. Where are we all meeting? When can we get there? Who can get to mom the quickest for support? All of those things raced through my head. 
 
-It was not until later, after the cremation and funeral, after the soft hugs and goodbyes from distant relatives and the never ending casseroles, not until **much** later, that I began reflecting on my last days with Jim. 
+It was not until later, after the cremation and funeral, after the soft hugs, the goodbyes from distant relatives, and the never ending casseroles, not until **much** later, that I began reflecting on my last days with Jim. 
 
 It was in that shop. 
 
-We had short, meaningless conversations and chats after we left the shop of course. The traditional hellos and goodbyes, and such were common fare, along with me asking the occasional question, but the real passages were in that shop, built of 2x4, plywood, concrete, and copper, and the knowledge passed from one to another. 
+We had short, meaningless conversations and chats after we left the shop of course. The traditional hellos, goodbyes and such were common fare, along with me asking the occasional question, but the real passages were in that shop, built of 2x4, plywood, concrete, and copper, and the knowledge passed from one to another. 
 
 **"I am proud of you. You did a good job."** was the last thing he really said *to* me. 
 
@@ -144,7 +144,7 @@ Thanks Jim.
 
 _____
 
-### So how does this long-winded diatribe lend itself to accessibility?
+### So how does this long-winded story lend itself to accessibility?
 
 As designers, developers, project managers, vice presidents and CEO’s we must commit to always doing a good job. Everyday we are hit with a plethora of reasons why we should just be good enough, but not many reasons for the benefits of being universally good.
 
