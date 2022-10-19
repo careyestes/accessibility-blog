@@ -93,6 +93,10 @@ h2 {
 h3 {
   font-size: 2.2rem;
   line-height: 3.2rem;
+  @media only screen and (min-width: 1280px) {
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+  }
 }
 
 h4 {
@@ -183,7 +187,7 @@ hr {
   z-index: 1;
   max-width: $max-single-article-width;
   margin: 0 auto;
-  padding: 0 2rem 5rem; 
+  padding: 0 10rem 5rem; 
   background: var(--background-color);
   border-top: 1px solid var(--foreground-color-light);
   h3, ul {
