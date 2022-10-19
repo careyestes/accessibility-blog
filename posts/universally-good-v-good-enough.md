@@ -90,7 +90,7 @@ That work mentality is how he drove his business forward. It was why when we cam
 
 We could have done it faster. He was paying me by the hour, so he had a great incentive to finish quickly to move onto the next job site. Ironically, as fiscally tight as Jim was, he saw real value in good work. By working alongside Jim, I learned that value as well. 
 
-I worked for Jim while completing my Bachelor degree in Graphic Design, an area of study that is hyper focused on detail, as much as creativity. 
+I worked for Jim while completing my Bachelors degree in Graphic Design, an area of study that is hyper focused on detail, as much as creativity. 
 
 So many early 3am mornings, I spent in a lab or in front of a screen trying desperately to do a good job. The back of my brain begging for sleep, while the front sending mental images of Jim asking me if I thought this was a "Good Job". I owe my ability to be meticulous and exact, my drive and passion for being better, to Jim. 
 
