@@ -146,7 +146,7 @@ _____
 
 ### So how does this long-winded story lend itself to accessibility?
 
-As designers, developers, project managers, vice presidents and CEO’s we must commit to always doing a good job. Everyday we are hit with a plethora of reasons why we should just be good enough, but not many reasons for the benefits of being universally good.
+As designers, developers, project managers, vice presidents, and CEO’s, we must commit to always doing a good job. Everyday we are hit with a plethora of reasons why we should just be good enough, but not many reasons for the benefits of being universally good.
 
 #### What is Good Enough?
 
