@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
         
         <ul className="post_list">
           {allPostsData.map(({ id, date, title, snippet, image, alt }, index, row) => (
-            <li className={classNames({'last-item' : index + 1 === row.length})} key={id} >
+            <li className={classNames({'last-item' : index + 1 === row.length, '-even' : index % 2 === 0 })} key={id} >
               <Article 
                 type={ index === 0 ? "-hero" : "-list"} 
                 date={date} 

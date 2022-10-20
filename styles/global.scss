@@ -227,6 +227,9 @@ ul.post_list {
     // border-bottom: 1px dashed var(--foreground-color-ultra-light);
     @media only screen and (min-width: 1280px) {
       border-right: 1px dashed var(--foreground-color-ultra-light);
+      &.-even {
+        border-right: 0;
+      }
     }
     &.last-item {
       article.-list {
