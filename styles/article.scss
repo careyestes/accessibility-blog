@@ -25,7 +25,7 @@
   // Hero Homepage Article
   &.-hero, &.-single_post {
     margin: 0 0rem;
-    padding: 0rem 1rem 0;
+    padding: 0rem 0rem 0;
     @media only screen and (min-width: 1280px) {
       margin: 0 2rem;
       padding: 8rem 4rem 0;
@@ -33,7 +33,6 @@
     .article_background_image_container {
       position: relative;
       min-height: 30rem;
-      border-radius: 6rem 6rem 0 0;
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat;
