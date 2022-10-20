@@ -224,10 +224,8 @@ ul.post_list {
   }
   li {
     flex: 1 1 50%;
-    border-bottom: 1px dashed var(--foreground-color-ultra-light);
     @media only screen and (min-width: 1280px) {
       border-right: 1px dashed var(--foreground-color-ultra-light);
-      border-bottom: 0;
       &.-even {
         border-right: 0;
       }
