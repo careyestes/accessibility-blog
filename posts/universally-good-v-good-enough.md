@@ -216,7 +216,7 @@ ___________
 
 ### Change the Why
 
-We must change the way we think and tackle about these accessibility problems, from inception to completion, focusing on the task and the worker.
+We must change the way we think and tackle these accessibility problems, from inception to completion, focusing on the task and the worker.
 
 For tasks, we have a specification that shows us how to get it done. How to pass a test, close a ticket. These are binary rules. 
 
