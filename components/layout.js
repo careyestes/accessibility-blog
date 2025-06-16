@@ -38,10 +38,9 @@ export default function Layout({ children, location }) {
       </Head>
       
       <header className={classNames(styles.header, { [ styles.single_post ] : location === 'post' })}>
-        { location === 'post' && <Link href='/'><a className={styles.backButton} href='/'>« Back</a></Link>}
+        { location === 'post' && <Link href='/' className={styles.backButton}>« Back</Link>}
         <nav>
-          <Link href='/'>
-            <a className={styles.logo}>
+          <Link href='/' className={styles.logo}>
               <svg className={styles.logo} viewBox="0 0 50 50">
                 <path className={styles.cyan} d="M38,32.5c-2.2,3.2-5.2,5.8-8.8,7.4l7.7,8.6l8.6-7.7L38,32.5z"/>
                 <path className={styles.magenta} d="M12.4,32.6l-7.2,8.3l8.6,7.4l7.3-8.4C17.6,38.3,14.6,35.7,12.4,32.6z"/>
@@ -50,7 +49,6 @@ export default function Layout({ children, location }) {
                 <path className={styles.green} d="M39.4,26.7L50,22.4l-4.2-10.6L35.1,16l0.1,0.2C37.5,19.2,39,22.8,39.4,26.7z"/>
               </svg>
               <h1 className="heading_small">{siteTitle}</h1>
-            </a>
           </Link>
         </nav>
         <ThemeToggle />

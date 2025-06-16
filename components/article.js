@@ -28,7 +28,7 @@ export default function Article({type, date, index=null, title, snippet, id=null
         </h2>
         { snippet ? <p>{snippet}</p> : "" }
         { content ? <div className="content_wrapper" dangerouslySetInnerHTML={{ __html: content }} /> : "" }
-        { type != "-single_post" ? <Link href={`/posts/${id}`}><a aria-label={"Read more about "+ title}>...Continue Reading »</a></Link> : "" }
+        { type != "-single_post" ? <Link href={`/posts/${id}`} ria-label={"Read more about "+ title} >...Continue Reading »</Link> : "" }
       </div>
     </article>
   );
